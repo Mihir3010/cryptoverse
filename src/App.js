@@ -24,7 +24,7 @@ const App = () => (
       <div className="footer">
         <Typography.Title level={5} style={{ color: 'white', textAlign: 'center' }}>Copyright © 2023 
           <Link to="/">
-            Cryptoverse Inc.
+            Cryptex Inc.
           </Link> <br />
           All Rights Reserved.
         </Typography.Title>
